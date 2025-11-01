@@ -1,0 +1,63 @@
+NOTE: "Track 1" is a song I've created.
+
+BarProps by SimpleModelsForMe licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/barprops-137130
+https://unity3d.com/legal/as_terms
+
+Interior Props Pack Asset by reach the enD licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/interior/interior-props-pack-asset-86452
+https://unity3d.com/legal/as_terms
+
+LowPoly Concert Props by iPoly3D licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/lowpoly-concert-props-190332
+https://unity3d.com/legal/as_terms
+
+FROOD - Free food and drinks pack by VoxelGuy licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/food/frood-free-food-and-drinks-pack-152103
+https://unity3d.com/legal/as_terms
+
+Picture frames with photos by 3Dfrk licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/interior/picture-frames-with-photos-106907
+https://unity3d.com/legal/as_terms
+
+WoodTile Textures Pack by 1441 GAMES licensed under Unity EULA
+https://assetstore.unity.com/packages/2d/textures-materials/wood/woodtile-textures-pack-30049
+https://unity3d.com/legal/as_terms
+
+FREE Rockstar Asset Pack by Ferocious Industries licensed under Unity EULA
+https://assetstore.unity.com/packages/3d/props/free-rockstar-asset-pack-129968
+https://unity3d.com/legal/as_terms
+
+Snare-A-1.wav by Seidhepriest licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/Seidhepriest/sounds/239002/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+Rim.wav by britishpirate93 licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/britishpirate93/sounds/162269/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+aa087 Sabian AAX hihat 14 closed powerful.wav by Robinhood76 licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/Robinhood76/sounds/61558/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+Alaska Hi-Hat by soundhustler licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/soundhustler/sounds/372216/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+
+16" Tom [2].wav by YellowTree licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/YellowTree/sounds/428621/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+Tom High.wav by YellowTree licensed under Creative Commons Attribution-NonCommercial
+https://freesound.org/people/YellowTree/sounds/173838/
+https://creativecommons.org/licenses/by-nc/3.0/
+
+Bangers Font by Vernon Adams licensed under the SIL Open Font License (OFL)
+https://www.1001fonts.com/bangers-font.html
+https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+
+
+Programming Resources:
+https://easings.net

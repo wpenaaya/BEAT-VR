@@ -1,3 +1,7 @@
+# BEAT VR
+An open source drumming VR game capable of reading MIDI files and creating very customizable experiences.
+![Welcome Image](https://github.com/wpenaaya/BEAT-VR/blob/main/githubimages/welcomeimage.png "BEAT VR Welcome Image")
+It has been initialized with some free models and textures from the Unity store, but they can be easily replaced.
 # Overview
 The project has a main component which is the “DrumGame”. This is at the top of the hierarchy, along with the scene “Venue_Bar”. The scene can be changed out easily and “DrumGame” can be turned into a prefab if needed. As children of this “DrumGame” object, we have things that are necessary no matter the scene or game state. These are the stage, the menu, the main sound source, the drums, and the objects with scripts that control post processing and lighting effects.
 

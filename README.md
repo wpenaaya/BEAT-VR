@@ -1,4 +1,4 @@
-# BEAT VR
+# BEAT VR (24 HOUR GAME JAM 2021)
 An open source drumming VR game capable of reading MIDI files and creating very customizable experiences.
 ![Welcome Image](https://github.com/wpenaaya/BEAT-VR/blob/main/githubimages/welcomeimage.png "BEAT VR Welcome Image")
 It has been initialized with some free models and textures from the Unity store, but they can be easily replaced.

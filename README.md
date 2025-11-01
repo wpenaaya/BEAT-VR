@@ -105,3 +105,7 @@ The other actions are not necessary.
 This project was intended to be used with Valve Knuckles controllers, since they way that they’re made allow you to hold onto real life drumsticks as you play! If you have Valve Knuckles, grab your favourite drumsticks, and set up 4 practice pads next to each other in front of you. Then, when you start up the game, adjust the height of the drums in game. Reset the camera position in an optimal position, and get playing!
 The first track, ClickTrack, is simply a click track playing at 120 beats per minute. It’s a test track to calibrate your setup.  The second track, Track1, is a song I made. It’s the only “real” song in the game but it should give you an idea of how the game could work.
 When the songs are done, you’ll be taken back to the main menu. From there, you can Quit.
+
+# Demo
+Here's a demo. Please disregard the terrible playing, as my recording setup was quite cumbersome!
+[![BEAT VR DEMO](http://img.youtube.com/vi/TLRKhCAiylg/0.jpg)](https://www.youtube.com/watch?v=TLRKhCAiylg)
